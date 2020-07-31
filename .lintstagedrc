@@ -1,0 +1,4 @@
+{
+   "pages/**/*.js": ["eslint --fix", "prettier --write", "git add"],
+   "utils/**/*.js": ["eslint --fix", "prettier --write", "git add"]
+}
